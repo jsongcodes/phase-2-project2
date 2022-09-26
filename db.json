@@ -1,0 +1,54 @@
+{
+    "entries": [
+        {
+            "id": 1,
+            "prompt": "What made you feel grateful today?",
+            "emotion": "Ungrateful"
+        },
+        {
+            "id": 2,
+            "prompt": "Where is a place you'd like to visit?",
+            "emotion": "Stuck"
+        },
+        {
+            "id": 3,
+            "prompt": "Who inspires you?",
+            "emotion": "Unmotivated"
+        },
+        {
+            "id": 4,
+            "prompt": "What are you priorities today?",
+            "emotion": "Overwhelmed"
+        },
+        {
+            "id": 5,
+            "prompt": "Whatis your favorite thing about yourself?",
+            "emotion": "Self-conscious"
+        },
+        {
+            "id": 6,
+            "prompt": "Looking back, what are some goals you achieved?",
+            "emotion": "Stuck"
+        },
+        {
+            "id": 7,
+            "prompt": "What made you feel grateful today?",
+            "emotion": "Ungrateful"
+        },
+        {
+            "id": 8,
+            "prompt": "Where is a place you'd like to visit?",
+            "emotion": "Stuck"
+        },
+        {
+            "id": 9,
+            "prompt": "Name 3 things you'll do for yourself today.",
+            "emotion": "Busy"
+        },
+        {
+            "id": 10,
+            "prompt": "What makes you happy?",
+            "emotion": "Unhappy"
+        }
+    ]
+}
