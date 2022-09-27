@@ -1,20 +1,15 @@
-import Navbar from "./navigation/Navbar";
-import Home from "./static/Home";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import ListEntries from "./entries/ListEntries";
-import NewEntry from "./entries/NewEntry";
+import Navbar from "./Navbar";
+import Home from "./Home";
 
-const App = () => {
+function App() {
   return (
-    <Router>
+    <div className="App">
       <Navbar />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/entries" element={<ListEntries />} />
-        <Route path="/entries/new" element={<NewEntry />} />
-      </Routes>
-    </Router>
+      <div className="content">
+        <Home />
+      </div>
+    </div>
   );
-};
+}
 
 export default App;
